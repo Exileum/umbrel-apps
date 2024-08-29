@@ -2,7 +2,7 @@ services:
 
   app_proxy:
     environment:
-      APP_HOST: exileum-affine-web
+      APP_HOST: exileum-affine_web_1
       APP_PORT: 3010
 
   web:
