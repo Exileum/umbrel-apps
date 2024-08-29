@@ -6,7 +6,7 @@ services:
       APP_PORT: 3010
 
   web:
-    image: ghcr.io/toeverything/affine-graphql:stable-a579cc7@sha256:b15070c36e1416f2ddbfae8aa47af97b32705ba166f128cedfeabd0ed28d7a89
+    image: ghcr.io/toeverything/affine-graphql:stable-eb0466e@sha256:3dc307907cbaed5d87ad30afb5e7f1ada7cdb6372736a920b0765401d4bce5e7
     restart: on-failure
     init: true
     command:
