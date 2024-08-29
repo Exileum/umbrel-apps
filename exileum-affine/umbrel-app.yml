@@ -41,5 +41,4 @@ releaseNotes: >-
   For full release notes, visit https://github.com/toeverything/AFFiNE/releases
 dependencies: []
 path: ""
-defaultUsername: "admin@umbrel.local"
-deterministicPassword: true
+defaultUsername: ""
